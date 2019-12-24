@@ -1,0 +1,7 @@
+server:
+  port: 80
+  servlet:
+    context-path: /
+  tomcat:
+    basedir: /disk/runtime_tmp
+
